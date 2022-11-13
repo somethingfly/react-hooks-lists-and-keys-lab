@@ -5,6 +5,8 @@ import About from "./About";
 import ProjectList from "./ProjectList";
 import user from "../data/user";
 
+console.log(user);
+
 function App() {
   return (
     <div>
